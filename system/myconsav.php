@@ -1,8 +1,8 @@
 <?php
-$servername = "sql213.eb2a.com";
-$username = "eb2a_16744879";
-$password = "WTH5410IX";
-$data="eb2a_16744879_sav";
+$servername = "name_server";
+$username = "user_db";
+$password = "password_db";
+$data="name_database";
 
 // Create connection
 $conn = mysqli_connect($servername, $username, $password,$data);
